@@ -1,0 +1,2 @@
+C:\Users\DAN\Desktop\AntiATTT\bin\Release\net9.0\win-x64\publish\AntiATTT.pdb
+C:\Users\DAN\Desktop\AntiATTT\bin\Release\net9.0\win-x64\publish\AntiATTT.exe
